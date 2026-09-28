@@ -1,6 +1,4 @@
-MisinforAI is a web-based application designed to help users quickly assess the credibility and reliability of online news articles. By submitting a news article URL, the application analyzes the content using a pre-trained
-machine learning model to generate a structured, objective rubric (or scorecard). This tool breaks down the article's characteristics into various categories, providing a final, data-driven score to highlight potential 
-misinformation indicators.
+MisinforAI is a web-based application designed to help users quickly assess the credibility and reliability of online news articles. By submitting a news article URL, the application analyzes the content using a pre-trained machine learning model to generate a structured, objective rubric (or scorecard). This tool breaks down the article's characteristics into various categories, providing a final, data-driven score to highlight potential misinformation indicators. Additionally, this tool was the basis of a research paper, which can be viewed using this link: https://docs.google.com/document/d/1OAHky6uaVVYbb084GjncF5apxJc-1xMG/edit?usp=sharing&ouid=101104644244540031085&rtpof=true&sd=true.
 
 Key Features
 URL-Based Analysis: Accepts any news article URL and extracts the core content for analysis.
